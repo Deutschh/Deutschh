@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Roda a cada 12h
+    - cron: "0 */12 * * *" # A cada 12h
   workflow_dispatch:
 
 jobs:
@@ -16,9 +16,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-snake-custom.svg?color_snake=#00ff00&color_dots=#161b22,#4c1d95,#8a2be2,#b145e5,#00ff00
+            # Gerando a versão 3D com a sua paleta personalizada Roxo/Verde
+            # Cobra Roxo Escuro (#4c1d95) | Pontos indo do Verde Escuro ao Lilás
+            dist/github-snake-3d.svg?color_snake=#4c1d95&color_dots=#161b22,#0e4429,#006d32,#a78bfa,#d2a8ff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
