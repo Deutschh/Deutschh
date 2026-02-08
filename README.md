@@ -17,15 +17,4 @@
 
 <div align="center"> <a href="https://github.com/Deutschh?tab=repositories"> <img src="https://img.shields.io/badge/Ver_Todos_os_Projetos-8a2be2?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
 
-## 🎧 Vibe de Código
-
-<div align="center">
-  <a href="https://open.spotify.com/user/gs1qzp790fv8yllztodyvzxd8">
-    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gs1qzp790fv8yllztodyvzxd8&cover_image=true&theme=apple&show_offline=false&background_color=690766&interchange=true&profanity=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=gs1qzp790fv8yllztodyvzxd8&redirect=true)
-  </a>
-  
-  <br/>
-  <br/>
-  
-  <samp>Status: Focado no Nexus 🛰️ | Playlist: Coding Mode ON 🟢</samp>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gs1qzp790fv8yllztodyvzxd8&cover_image=true&theme=apple&show_offline=false&background_color=690766&interchange=true&profanity=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=gs1qzp790fv8yllztodyvzxd8&redirect=true)
