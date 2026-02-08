@@ -2,10 +2,10 @@
     "backgroundColor": "#0d1117",
     "foregroundColor": "#ffffff",
     "strongColor": "#ff00ff",
-    "weakColor": "#484f58",
+    "weakColor": "#ff0000",
     "radarColor": "#8a2be2",
     "gradeColors": [
-      "#484f58",
+      "#ff0000",
       "#6e7681",
       "#006d32",
       "#00ff00",
