@@ -10,17 +10,43 @@
   <samp>Meus Commits</samp>
 </div>
 
+## 🚀 Projetos em Destaque
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ Nexus Logística</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-8a2be2?style=flat-square" />
+      </p>
+      <p>Sistema IoT para rastreamento de contêineres e monitoramento de carga em tempo real. Integração de hardware e dashboard analítico.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" height="20"/>
+      </p>
+      <a href="https://github.com/Deutschh/Nexus">Ver Repositório →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤟 SilentVoice</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Status-Conceitual-00ff00?style=flat-square" />
+      </p>
+      <p>Tecnologia assistiva voltada para saúde e acessibilidade, focada em dispositivos para pessoas com mutismo ou em fisioterapia.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" height="20"/>
+      </p>
+      <a href="https://github.com/Deutschh/SilentVoice">Ver Repositório →</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&text=DEUTSCHH&color=8a2be2&height=150&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Building+Reliable+Systems;IoT+Architect+%26+Backend+Dev;Connecting+Hardware+to+the+Cloud;Developing+Project+Nexus..." alt="Typing SVG" />
-
-  <br/>
-
-  <img src="https://skillicons.dev/icons?i=java,nodejs,react,postgres,arduino,esp32,git,linux&theme=dark" />
-
-  <br/>
-  <br/>
-
-  <code><b>System Status:</b> Operational 🟢</code> &nbsp; <code><b>Location:</b> São Paulo, BR 📍</code> &nbsp; <code><b>Focus:</b> Scalability 🚀</code>
+  <a href="https://github.com/Deutschh?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver_Todos_os_Projetos-8a2be2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
