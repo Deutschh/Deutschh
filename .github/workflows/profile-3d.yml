@@ -15,27 +15,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          # AQUI ESTÁ A MÁGICA DAS SUAS CORES:
-          SETTING_JSON: |
-            {
-                "backgroundColor": "#0d1117",
-                "foregroundColor": "#ffffff",
-                "strongColor": "#ff00ff",
-                "weakColor": "#161b22",
-                "radarColor": "#00ff00",
-                "gradeColors": [
-                  "#161b22",
-                  "#0e4429",
-                  "#2ea043",
-                  "#8a2be2",
-                  "#d2a8ff"
-                ]
-            }
+          SETTING_JSON: ./profile-3d-contrib.json
       
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated custom colors"
+          git commit -m "generated with custom colors"
           git push
