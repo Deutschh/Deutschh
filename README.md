@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 ## 📊 Telemetria do Desenvolvedor
 ## 🛠️ Arsenal Tecnológico
 ## 🧩 Métricas
-![Metrics](https://metrics.lecoq.io/Deutschh?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
+## 📊 Estatísticas
+![Stats](https://github-readme-stats.vercel.app/api?username=Deutschh&show_icons=true&theme=dark&bg_color=0d1117&title_color=8a2be2&text_color=ffffff&icon_color=00ff00&hide_border=true)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deutschh&layout=compact&theme=dark&bg_color=0d1117&title_color=8a2be2&text_color=ffffff&hide_border=true)
 
 ## 🔥 Ofensiva de Código
 <div align="center">
