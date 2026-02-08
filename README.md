@@ -1,12 +1,12 @@
-# 💻 Systems Developer & Freelancer
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Desenvolvedor+Freelancer;Especialista+em+Sistemas;Entusiasta+de+IoT;Corinthians+Fan+Mode:+ON" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Guilherme+Deutsch;Desenvolvedor+de+Sistemas;Front+End;Back+End;Projetos+Freelancers" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+### 🛠️ Linguagens e Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -53,8 +53,8 @@
 ### 🎧 O que estou ouvindo agora
 
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=COLE_SUA_ID_AQUI&redirect=true">
-    <img src="https://novatide.vercel.app/api/spotify?background_color=0d1117&border_color=8a2be2&text_color=ffffff" width="450" alt="Spotify Now Playing" />
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=gs1qzp790fv8yllztodyvzxd8&redirect=true">
+    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gs1qzp790fv8yllztodyvzxd8&cover_image=true&theme=apple&show_offline=false&background_color=690766&interchange=true&profanity=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=gs1qzp790fv8yllztodyvzxd8&redirect=true)
   </a>
 </div>
 
