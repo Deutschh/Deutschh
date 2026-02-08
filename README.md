@@ -2,5 +2,5 @@
 
 ## 🐍 Minha Jornada em Código
 <div align="center">
-  <img src="https://github.com/Deutschh/Deutschh/blob/main/dist/github-snake-custom.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Deutschh/Deutschh/output/github-snake-custom.svg" width="100%" alt="Snake Animation" />
 </div>
