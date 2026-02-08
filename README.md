@@ -15,7 +15,6 @@
     <td width="50%" valign="top">
       <img src="https://capsule-render.vercel.app/render?type=rect&color=8a2be2&height=2" width="100%" />
       <br/>
-      
       <h3>🌊 ZenFlow</h3>
       <p align="left">
         <img src="https://img.shields.io/badge/Status-Ativo-00ff00?style=flat-square" />
@@ -29,11 +28,9 @@
       </p>
       <a href="https://github.com/Deutschh/ZenFlow"><strong>Ver Solução →</strong></a>
     </td>
-
     <td width="50%" valign="top">
       <img src="https://capsule-render.vercel.app/render?type=rect&color=8a2be2&height=2" width="100%" />
       <br/>
-
       <h3>⚡ Fluxum</h3>
       <p align="left">
         <img src="https://img.shields.io/badge/Status-MVP_IoT-8a2be2?style=flat-square" />
