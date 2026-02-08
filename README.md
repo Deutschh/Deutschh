@@ -50,13 +50,7 @@
 
 ---
 
-### 🎧 O que estou ouvindo agora
 
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=gs1qzp790fv8yllztodyvzxd8&redirect=true">
-    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gs1qzp790fv8yllztodyvzxd8&cover_image=true&theme=apple&show_offline=false&background_color=690766&interchange=true&profanity=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=gs1qzp790fv8yllztodyvzxd8&redirect=true)
-  </a>
-</div>
 
 ---
 
@@ -65,6 +59,14 @@
 <div align="center">
   <p><em>Minha jornada de código transformada em jogo.</em></p>
   <img src="https://raw.githubusercontent.com/Deutschh/Deutschh/output/github-snake-dark.svg" width="100%" alt="Snake Game" />
+</div>
+
+---
+
+### 🎧 O que estou ouvindo agora
+
+<div align="center">
+    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gs1qzp790fv8yllztodyvzxd8&cover_image=true&theme=apple&show_offline=false&background_color=690766&interchange=true&profanity=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=gs1qzp790fv8yllztodyvzxd8&redirect=true)
 </div>
 
 ---
