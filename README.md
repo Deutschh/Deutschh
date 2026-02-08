@@ -9,7 +9,50 @@
   <br/>
   <samp>Meus Commits</samp>
 </div>
+## 🚀 Projetos em Destaque
 
-<table border="0"> <tr> <td width="50%" valign="top"> <h3>🌊 ZenFlow</h3> <p align="left"> <img src="https://img.shields.io/badge/Status-Ativo-00ff00?style=flat-square" /> </p> <p>Gerenciador de fluxo de trabalho e produtividade. Focado em auxiliar empresas por meio de relatórios e previsões de acordo com análise de dados.</p> <p> <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" height="20"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="20"/> </p> <a href="https://github.com/Deutschh/ZenFlow">Conhecer o projeto →</a> </td> <td width="50%" valign="top"> <h3>⚡ Fluxum</h3> <p align="left"> <img src="https://img.shields.io/badge/Status-Em%20Produção-8a2be2?style=flat-square" /> </p> <p>Sistema de monitoramento de dados de containers em tempo real, otimizado para integração com APIs de telemetria e sistemas distribuídos.</p> <p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" height="20"/> </p> <a href="https://github.com/Deutschh/Fluxu">Conhecer o projeto →</a> </td> </tr> </table>
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/render?type=rect&color=8a2be2&height=2" width="100%" />
+      <br/>
+      <h3>🌊 ZenFlow</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Status-Ativo-00ff00?style=flat-square" />
+      </p>
+      <p>Gerenciador de fluxo de trabalho e produtividade. Focado em interfaces limpas e performance para desenvolvedores freelancers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" height="20"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="20"/>
+      </p>
+      <a href="https://github.com/Deutschh/ZenFlow">Explorar Repositório →</a>
+    </td>
+    
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/render?type=rect&color=8a2be2&height=2" width="100%" />
+      <br/>
+      <h3>⚡ Fluxu</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Status-Em%20Produção-8a2be2?style=flat-square" />
+      </p>
+      <p>Monitoramento de dados em tempo real para sistemas distribuídos e telemetria, otimizado para alta disponibilidade.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="20"/>
+      </p>
+      <a href="https://github.com/Deutschh/Fluxu">Explorar Repositório →</a>
+    </td>
+  </tr>
+</table>
 
-<div align="center"> <a href="https://github.com/Deutschh?tab=repositories"> <img src="https://img.shields.io/badge/Ver_Todos_os_Projetos-8a2be2?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=8a2be2&height=2" width="100%" />
+  <br/>
+  <a href="https://github.com/Deutschh?tab=repositories">
+    <img src="https://img.shields.io/badge/Acessar_Terminal_de_Repositórios-8a2be2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
