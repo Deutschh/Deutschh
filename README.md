@@ -1,7 +1,5 @@
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Guilherme+Deutsch;Desenvolvedor+de+Sistemas;Front+End;Back+End;Projetos+Freelancers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Guilherme+Deutsch+Andrade;Desenvolvedor+de+Sistemas;Front+End;Back+End;Projetos+Freelancers" alt="Typing SVG" />
 </div>
 
 ---
@@ -25,7 +23,7 @@
     <td width="50%" valign="top">
       <h3>🌊 ZenFlow</h3>
       <p align="left">
-        <img src="https://img.shields.io/badge/Status-Ativo-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Em_Produção-blueviolet?style=flat-square" />
       </p>
       <p>Gerenciador de fluxo de trabalho. Gera relatórios preditivos e otimiza processos corporativos com base em análise de dados históricos.</p>
       <a href="https://github.com/Deutschh/ZenFlow">Conhecer projeto →</a>
@@ -82,6 +80,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br/><br/>
-  <code><b>Student Status:</b> High School (2nd Year) 🎓</code>   
+  <code><b>Status:</b> Ensino médio junto a tecnico em Desenvolvimento de Sistemas (3º Ano) 🎓</code>   
   <code><b>Work:</b> Freelancer 🚀</code>
 </div>
