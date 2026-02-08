@@ -1,11 +1,25 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=code&text=Deutschh&color=8a2be2&height=150&section=header&reversal=false&fontSize=70&fontAlignY=40&animation=twinkling&desc=Systems%20Developer%20|%20IoT%20Enthusiast&descSize=20&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&text=Deutschh&color=4c1d95&height=120&fontSize=60&fontColor=00ff00&section=header" width="100%" />
+</div>
 
-  <br/>
+<div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Iniciando+Sistemas...;Status:+Online;Foco:+Backend+e+IoT;Desenvolvendo+o+projeto+Nexus...;Corinthians+Fan+Mode:+ON" alt="Typing SVG" />
+| **SYSTEM STATUS** | **OPERATIONAL MODE** | **DATABASE** |
+| :---: | :---: | :---: |
+| ![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00ff00?style=for-the-badge&logo=statuspage&logoColor=white) | ![Dev](https://img.shields.io/badge/MODE-DEVELOPER-8a2be2?style=for-the-badge&logo=visualstudiocode&logoColor=white) | ![DB](https://img.shields.io/badge/NEON_DB-CONNECTED-00ff00?style=for-the-badge&logo=postgresql&logoColor=white) |
+
+<br/>
+
+### 🛠️ Hardware & Software Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </div>
 
 ### 🎮 Gamificação de Commits
