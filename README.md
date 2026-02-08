@@ -66,7 +66,9 @@
 ### 🎧 O que estou ouvindo agora
 
 <div align="center">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gs1qzp790fv8yllztodyvzxd8&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&profanity=true&bar_color=4a08c4&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=gs1qzp790fv8yllztodyvzxd8&redirect=true)
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gs1qzp790fv8yllztodyvzxd8&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gs1qzp790fv8yllztodyvzxd8&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&profanity=true&bar_color=4a08c4&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
 </div>
 
 ---
