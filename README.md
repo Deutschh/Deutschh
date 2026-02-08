@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## 📊 Minhas Contribuições
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-customize.svg)
