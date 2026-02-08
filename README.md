@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## 📊 Minhas Contribuições
-![](./profile-3d-contrib/profile-customize.svg)
+## 📊 Telemetria do Desenvolvedor
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deutschh&show_icons=true&theme=transparent&bg_color=0d1117&title_color=8a2be2&text_color=ffffff&icon_color=00ff00&border_color=4c1d95&hide_border=false&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deutschh&layout=compact&theme=transparent&bg_color=0d1117&title_color=8a2be2&text_color=ffffff&icon_color=00ff00&border_color=4c1d95&hide_border=false" />
+</div>
