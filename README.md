@@ -18,11 +18,8 @@ Here are some ideas to get you started:
 ## 📊 Minhas Contribuições
 ## 📊 Telemetria do Desenvolvedor
 ## 🛠️ Arsenal Tecnológico
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,postgres,git,github,arduino,vscode&theme=dark" />
-  </a>
-</div>
+## 🧩 Métricas
+![Metrics](https://metrics.lecoq.io/Deutschh?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
 
 ## 🔥 Ofensiva de Código
 <div align="center">
