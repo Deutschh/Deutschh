@@ -1,25 +1,41 @@
-name: GitHub-Profile-3D-Contrib 
+name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # Agendamento (Cron Job)
-    - cron: "0 18 * * *" # Significa: "Rode todo dia às 18h UTC"
-  workflow_dispatch: # Permite que você rode manualmente clicando num botão (bom para testar)
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu-latest # O robô vai usar uma máquina virtual Linux (Ubuntu)
+    runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3 # Passo 1: O robô baixa o seu código atual
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1 # Passo 2: Roda o script pronto dessa pessoa (yoshi389111)
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Dá permissão pro robô ler seus dados
-          USERNAME: ${{ github.repository_owner }} # Pega seu nome de usuário automaticamente
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          # AQUI ESTÁ A MÁGICA DAS SUAS CORES:
+          SETTING_JSON: |
+            {
+                "backgroundColor": "#0d1117",
+                "foregroundColor": "#ffffff",
+                "strongColor": "#ff00ff",
+                "weakColor": "#161b22",
+                "radarColor": "#00ff00",
+                "gradeColors": [
+                  "#161b22",
+                  "#0e4429",
+                  "#2ea043",
+                  "#8a2be2",
+                  "#d2a8ff"
+                ]
+            }
       
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "generated custom colors"
           git push
