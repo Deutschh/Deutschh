@@ -21,6 +21,7 @@ jobs:
           template: classic
           base: "" # Deixa vazio para focar só na cidade
           config_timezone: America/Sao_Paulo
+          config_theme: radical
           
           # A CIDADE 3D (Isocalendar)
           plugin_isocalendar: yes
