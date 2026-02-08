@@ -1,14 +1,14 @@
 {
     "backgroundColor": "#0d1117",
     "foregroundColor": "#ffffff",
-    "strongColor": "#00ff00",
-    "weakColor": "#240046",
+    "strongColor": "#ff00ff",
+    "weakColor": "#484f58",
     "radarColor": "#8a2be2",
     "gradeColors": [
-      "#240046",
-      "#4c1d95",
-      "#8b5cf6",
-      "#a78bfa",
-      "#00ff00"
+      "#484f58",
+      "#6e7681",
+      "#006d32",
+      "#00ff00",
+      "#ff00ff"
     ]
 }
